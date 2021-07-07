@@ -4,7 +4,7 @@ using the BCE loss function and adam optimizer and train on 5 epochs
 # model architecture
 Model: "sequential_1"
 _________________________________________________________________
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Param   
 =================================================================
 flatten_1 (Flatten)          (None, 10)                0         
 _________________________________________________________________
