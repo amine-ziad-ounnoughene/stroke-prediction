@@ -27,4 +27,4 @@ Non-trainable params: 0
 # model accuracy
 ![App Screenshot](https://github.com/amine-ziad-ounnoughene/stroke-prediction-neural-net/blob/40efc4931543510f482f8ec75ba8889aa4f79302/model-accuracy%20(1).jpg)
 # model loss
-![App Screenshot](https://github.com/amine-ziad-ounnoughene/stroke-prediction-neural-net/blob/6321d3a922a02edf8e7a47ee0fd2443cde4b7bee/model-loss.jpg)
+![App Screenshot](https://github.com/amine-ziad-ounnoughene/stroke-prediction-neural-net/blob/cee40b27a21ee2a700c3f50401179c661abd139b/model-loss%20(1).jpg)
