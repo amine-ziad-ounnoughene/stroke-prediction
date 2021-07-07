@@ -2,6 +2,7 @@
 a fully connected adaline neural net which try to predict the probability of having a stoke in the future
 using the BCE loss function and adam optimizer and train on 5 epochs
 # model architecture
+```bash
 Model: "sequential_1"
 _________________________________________________________________
 Layer (type)                 Output Shape              Param   
@@ -17,7 +18,7 @@ dense_5 (Dense)              (None, 1)                 129
 Total params: 18,049
 Trainable params: 18,049
 Non-trainable params: 0
-_________________________________________________________________
+```
 # accuracy
 - trainning accuracy 94.67 %
 - validation accuracy 99.99 %
