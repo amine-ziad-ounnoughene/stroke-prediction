@@ -25,6 +25,6 @@ Non-trainable params: 0
 - testing accuracy 99.99 % 
 ##  learning curves 
 # model accuracy
-![App Screenshot](https://github.com/amine-ziad-ounnoughene/stroke-prediction-neural-net/blob/c4e73973605191cdd47e1f51bec6e1f1a05b1e9b/model-accuracy.jpg)
+![App Screenshot](https://github.com/amine-ziad-ounnoughene/stroke-prediction-neural-net/blob/40efc4931543510f482f8ec75ba8889aa4f79302/model-accuracy%20(1).jpg)
 # model loss
 ![App Screenshot](https://github.com/amine-ziad-ounnoughene/stroke-prediction-neural-net/blob/6321d3a922a02edf8e7a47ee0fd2443cde4b7bee/model-loss.jpg)
