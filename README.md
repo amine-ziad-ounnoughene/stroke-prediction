@@ -23,6 +23,8 @@ Non-trainable params: 0
 - trainning accuracy 94.67 %
 - validation accuracy 99.99 %
 - testing accuracy 99.99 % 
-# learning curves 
-![App Screenshot]
+##  learning curves 
+# model accuracy
+![App Screenshot](https://github.com/amine-ziad-ounnoughene/stroke-prediction-neural-net/blob/c4e73973605191cdd47e1f51bec6e1f1a05b1e9b/model-accuracy.jpg)
+# model loss
 ![App Screenshot]
