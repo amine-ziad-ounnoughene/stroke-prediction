@@ -24,3 +24,5 @@ Non-trainable params: 0
 - validation accuracy 99.99 %
 - testing accuracy 99.99 % 
 # learning curves 
+![App Screenshot]
+![App Screenshot]
