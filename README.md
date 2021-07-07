@@ -1,6 +1,6 @@
 # stroke-prediction-neural-net
 a fully connected adaline neural net which try to predict the probability of having a stoke in the future
-using the BCE loss function and adam optimizer and train on 5 epochs
+using the BCE loss function and adam optimizer and train on 10 epochs
 # model architecture
 ```bash
 Model: "sequential_1"
